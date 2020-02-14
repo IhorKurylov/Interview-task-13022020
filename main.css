@@ -1,0 +1,18 @@
+body{
+background-color: #adadad;
+    color: #005cbf;
+}
+
+.modal-content {
+    border-radius: 5vw;
+}
+.input{
+    width: 25%;
+    font-size: 14px;
+    border: 1px solid  #005cbf;
+}
+
+
+.checkbox {
+height:100%;
+}
